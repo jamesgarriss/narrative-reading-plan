@@ -5,6 +5,7 @@ The purpose of this repo is to provide a Bible reading plan.  This plan is **chr
 Gen 1-3
 ### Adam
 Gen 4
+
 Gen 5:1-3
 ### Noah and the Flood
 Gen 6-9
