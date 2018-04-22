@@ -40,5 +40,15 @@ The purpose of this repo is to provide a Bible reading plan that is:
 * Num 33:50-56
 * Num 35:1-15
 * Num 36
+### Renewing the Covenant
+* Deu 1-12
+### Joshua
+* Deu 31-32
+* Deu 34
+* Jos 1-11
+* Jos 14
+* Jos 21:43-45
+* Jos 22-24
+### Judges
 
 ## New Testament
