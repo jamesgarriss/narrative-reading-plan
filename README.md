@@ -5,19 +5,26 @@ The purpose of this repo is to provide a Bible reading plan that is:
 * **Non-repetitive** -- When the same events are recorded it different books, it uses one or the other, but not both.
 ## Old Testament
 ### Creation and the Fall
-God created the world, and it was good. The pinnacle of his creation was man, but Adam sinned, his relationship with God was broken. In his justice, God punished Adam; in his grace, he promised a descedent of Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
+God created the world, and it was good. The pinnacle of his creation was man, but Adam sinned, his relationship with God was broken. In his justice, God punished Adam; in his grace, he promised that there would be a descedent from Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
 * [Gen 1-3](https://www.biblegateway.com/passage/?search=Gen+1&version=HCSB)
 ### Adam
-Would the promised one be one of Adam's son? No. Instead, the effects of sin are quickly manifested. Murder and death enter the world.
+Would the promised one be one of Adam's sons? No. Instead, the effects of sin are quickly manifested. Murder and death enter the world.
 * [Gen 4](https://www.biblegateway.com/passage/?search=Gen+4&version=HCSB)
 * [Gen 5:1-3](https://www.biblegateway.com/passage/?search=Gen+5&version=HCSB)
 ### Noah and the Flood
 As fallen angels (the sons of God) procreated with women, sin began to dominate the entire human race.  In his justice, God punished everyone; in his grace, he spared Noah and his family. The promised descendent would come from Noah.
 * [Gen 6-9](https://www.biblegateway.com/passage/?search=Gen+6&version=HCSB)
-### Abraham and the Covenant
-* Gen 11:1-9
-* Gen 12-25:11
-### Isaac and Jacob
+### Abram and the Covenant
+In Babylon, men tried to reached heaven on their own.  In his justice, God confused their language; in his mercy, God made a covenant with Abram and promised that he would bless everyone on the earth through him.  The promised descendent would come from Abram.
+* [Gen 11:1-9, 27-32](https://www.biblegateway.com/passage/?search=Gen+11&version=HCSB)
+* [Gen 12-14](https://www.biblegateway.com/passage/?search=Gen+12&version=HCSB)
+### Abram and the Promise of Land
+As Abram (mostly) obeyed God, God renewed his covenant and promised him a land where his offspring would one day dwell. God was faithful to keep his covenant, enabling Abram's wife to conceive at an old age.
+* [Gen 15-20](https://www.biblegateway.com/passage/?search=Gen+15&version=HCSB)
+### Isaac
+Would the promised one be Abram's son?
+### Jacob
+Would the promised one be Isaac's son?
 * Gen 25:19-35
 ### Joseph
 * Gen 37-46:5
