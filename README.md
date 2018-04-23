@@ -5,13 +5,15 @@ The purpose of this repo is to provide a Bible reading plan that is:
 * **Non-repetitive** -- When the same events are recorded it different books, it uses one or the other, but not both.
 ## Old Testament
 ### Creation and the Fall
-God created the world, and it was good. The pinnacle of his creation was man, but Adam sinned, his relationship with God was broken. In his justice, God punished Adam; in his grace he promised a descedent of Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
+God created the world, and it was good. The pinnacle of his creation was man, but Adam sinned, his relationship with God was broken. In his justice, God punished Adam; in his grace, he promised a descedent of Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
 * [Gen 1-3](https://www.biblegateway.com/passage/?search=Gen+1&version=HCSB)
 ### Adam
-* Gen 4
-* Gen 5:1-3
+Would the promised one be one of Adam's son? No. Instead, the effects of sin are quickly manifested. Murder and death enter the world.
+* [Gen 4](https://www.biblegateway.com/passage/?search=Gen+4&version=HCSB)
+* [Gen 5:1-3](https://www.biblegateway.com/passage/?search=Gen+5&version=HCSB)
 ### Noah and the Flood
-* Gen 6-9
+As fallen angels (the sons of God) procreated with women, sin began to dominate the entire human race.  In his justice, God punished everyone; in his grace, he spared Noah and his family. The promised descendent would come from Noah.
+* [Gen 6-9](https://www.biblegateway.com/passage/?search=Gen+6&version=HCSB)
 ### Abraham and the Covenant
 * Gen 11:1-9
 * Gen 12-25:11
