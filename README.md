@@ -5,6 +5,7 @@ The purpose of this repo is to provide a Bible reading plan that is:
 * **Non-repetitive** -- When the same events are recorded it different books, it uses one or the other, but not both.
 ## Old Testament
 ### Creation and the Fall
+God created the world, and it was good. The pinnacle of his creation was man, but Adam sinned, his relationship with God was broken. In his justice, God punished Adam; in his grace he promised a descedent of Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
 * [Gen 1-3](https://www.biblegateway.com/passage/?search=Gen+1&version=HCSB)
 ### Adam
 * Gen 4
