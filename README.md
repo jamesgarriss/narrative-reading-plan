@@ -4,7 +4,7 @@ The purpose of this repo is to provide a Bible reading plan that is:
 * **Narrative-centric** -- Narratives are easiest passages to see God working in redemptive history.  This plan removes a lot of passages that make Bible reading difficult (e.g., Leviticus). 
 * **Non-repetitive** -- When the same events are recorded it different books, it uses one or the other, but not both.
 
-Hopefully this plan will enable readers to see the big picture of God's plan as it unfold throughout the story of the Bible from Genesis to Revelation.
+Hopefully this plan will enable readers to see the big picture of God's plan as it unfolds throughout the story of the Bible from Genesis to Revelation.
 ## Old Testament
 ### Creation and the Fall
 God created the world, and it was good. The pinnacle of his creation was man, but Adam sinned and broke his relationship with God. In his justice, God punished Adam; in his grace, he promised that there would be a descedent from Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
