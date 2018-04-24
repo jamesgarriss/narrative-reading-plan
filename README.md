@@ -3,6 +3,7 @@ The purpose of this repo is to provide a Bible reading plan that is:
 * **Chronological** -- It presents the events in the Bible in the order they happened, which is not always the order in which they are arranged in our English translations.  
 * **Narrative-centric** -- Narratives are easiest passages to see God working in redemptive history.  This plan removes a lot of passages that make Bible reading difficult (e.g., Leviticus). 
 * **Non-repetitive** -- When the same events are recorded it different books, it uses one or the other, but not both.
+
 Hopefully this plan will enable readers to see the big picture of God's plan as it unfold throughout the story of the Bible from Genesis to Revelation.
 ## Old Testament
 ### Creation and the Fall
