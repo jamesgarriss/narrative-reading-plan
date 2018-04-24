@@ -27,12 +27,12 @@ Would the promised one be Abram's son, Isaac? No, but God was faithful to keep h
 * [Gen 21-24](https://www.biblegateway.com/passage/?search=Gen+24&version=HCSB)
 ### Jacob
 Would the promised one be Isaac's son, Jacob? No, though God was faithful to keep his covenant by protecting Jacob from Laban and Esau.
-* [Gen 25:19-35](https://www.biblegateway.com/passage/?search=Gen+25%3A19&version=HCSB)
+* [Gen 25:19-35](https://www.biblegateway.com/passage/?search=Gen+25%3A19-35&version=HCSB)
 * [Gen 26-35](https://www.biblegateway.com/passage/?search=Gen+26&version=HCSB)
 ### Joseph
 Would the promised one be Isaac's favorite son, Joseph? No, his brothers sold him into slavery. God, however, was faithful to keep his covenant by using Joseph to save his entire family from starvation.
-* Gen 37-46:5
-* Gen 46:28-50
+* [Gen 37-46:5](https://www.biblegateway.com/passage/?search=Gen+37&version=HCSB)
+* [Gen 46:28-50](https://www.biblegateway.com/passage/?search=Gen+46%3A28-50&version=HCSB)
 ### Moses and the Exodus
 * Exo 1-6:13
 * Exo 6:26-18
