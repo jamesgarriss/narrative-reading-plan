@@ -4,7 +4,7 @@ The purpose of this repo is to provide a Bible reading plan that is:
 * **Narrative-centric** -- Narratives are easiest passages to see God working in redemptive history.  This plan removes a lot of passages that make Bible reading difficult (e.g., Leviticus). 
 * **Non-repetitive** -- When the same events are recorded it different books, it uses one or the other, but not both.
 
-Hopefully this plan will enable readers to see the big picture of God's plan as it unfolds throughout the story of the Bible from Genesis to Revelation.
+As reader follow this plan, it is hoped that they will be able to see the big picture of God's plan as it unfolds throughout the story of the Bible from Genesis to Revelation.
 ## Old Testament
 ### Creation and the Fall
 God created the world, and it was good. The pinnacle of his creation was man, who he made in his image.
@@ -41,8 +41,8 @@ Would the promised one be Isaac's favorite son, Joseph? No, his brothers sold hi
 A new Pharoah came to power in Egypt, one who enslaved the Israelites. God was faithful to keep his covenenant by raising up Moses to deliver them.
 * [Exo 1-6:13](https://www.biblegateway.com/passage/?search=Exo+1&version=HCSB)
 ### The Exodus
-Pharoah refused to let the Israelites leave Egypt. God was faithful to keep his covenant by plaguing Egypt until Pharoah relented.
-* Exo 6:26-18
+Pharoah refused to let the Israelites leave Egypt. God was faithful to keep his covenant by plaguing Egypt until Pharoah relented and by providing water and food in the wilderness.
+* [Exo 6:26-18](https://www.biblegateway.com/passage/?search=Exo+6%3A26&version=HCSB)
 ### The Mosaic Covenant
 * Exo 19-20
 * Exo 23:20-24
