@@ -7,10 +7,13 @@ The purpose of this repo is to provide a Bible reading plan that is:
 Hopefully this plan will enable readers to see the big picture of God's plan as it unfolds throughout the story of the Bible from Genesis to Revelation.
 ## Old Testament
 ### Creation and the Fall
-God created the world, and it was good. The pinnacle of his creation was man, but Adam sinned and broke his relationship with God. In his justice, God punished Adam; in his grace, he promised that there would be a descedent from Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
-* [Gen 1-3](https://www.biblegateway.com/passage/?search=Gen+1&version=HCSB)
+God created the world, and it was good. The pinnacle of his creation was man, who he made in his image.
+* [Gen 1-2](https://www.biblegateway.com/passage/?search=Gen+1&version=HCSB)
+### The Fall
+Adam sinned and broke his relationship with God. In his justice, God punished Adam; in his grace, he promised that there would be a descedent from Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
+* [Gen 3](https://www.biblegateway.com/passage/?search=Gen+1&version=HCSB)
 ### Adam
-Would the promised one be Adam's son, Able? No, instead, the effects of sin increase as murder and death enter the world.  God, however, was faithful to his promise by giving Eve another son, Seth.
+Would the promised one be Adam's son, Cain? No, instead, the effects of sin increased as murder and death enter the world.  God, however, was faithful to his promise by giving Eve another son, Seth.
 * [Gen 4](https://www.biblegateway.com/passage/?search=Gen+4&version=HCSB)
 * [Gen 5:1-3](https://www.biblegateway.com/passage/?search=Gen+5&version=HCSB)
 ### Noah and the Flood
@@ -34,8 +37,11 @@ Would the promised one be Isaac's son, Jacob? No, though God was faithful to kee
 Would the promised one be Isaac's favorite son, Joseph? No, his brothers sold him into slavery. God, however, was faithful to keep his covenant by using Joseph to save his entire family from starvation.
 * [Gen 37-46:5](https://www.biblegateway.com/passage/?search=Gen+37&version=HCSB)
 * [Gen 46:28-50](https://www.biblegateway.com/passage/?search=Gen+46%3A28-50&version=HCSB)
-### Moses and the Exodus
-* Exo 1-6:13
+### Moses
+A new Pharoah came to power in Egypt, one who enslaved the Israelites. God was faithful to keep his covenenant by raising up Moses to deliver them.
+* [Exo 1-6:13](https://www.biblegateway.com/passage/?search=Exo+1&version=HCSB)
+### The Exodus
+Pharoah refused to let the Israelites leave Egypt. God was faithful to keep his covenant by plaguing Egypt until Pharoah relented.
 * Exo 6:26-18
 ### The Mosaic Covenant
 * Exo 19-20
