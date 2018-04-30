@@ -70,6 +70,9 @@ Pharoah refused to let the Israelites leave Egypt. God was faithful to keep his 
 * Jos 14
 * Jos 21:43-45
 * Jos 22-24
-### Judges
-
+### Failure
+Although Israel drove many of the wicked Canaanites from the land that God had promised them, they failed to obey God completely and drive them all out.
+* [Jud 1-2:10](https://www.biblegateway.com/passage/?search=Jud+1&version=HCSB)
+With the death of Joshua there began a new period of time in Israel's history known as the Judges.  It was a time when "another generation rose up who did not know the LORD" (Jud 2:10) and "everyone did whatever he wanted" (Jud 17:6).  Thus there began a cycle where Israel sinned by breaking their coveneant, God punished them as had promised in the covenant, Israel repented of her sin, and God was faithful to keep the covenenant by delivering them with a judge.
+* [Jud 2:11-3:6](https://www.biblegateway.com/passage/?search=Jud+2%3A11&version=HCSB)
 ## New Testament
