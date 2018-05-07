@@ -84,5 +84,8 @@ With the death of Joshua there began a new period of time in Israel's history kn
 * [Jdg 4-5](https://www.biblegateway.com/passage/?search=Jdg+4-5&version=HCSB)
 #### Gideon
 * [Jdg 6-9](https://www.biblegateway.com/passage/?search=Jdg+6-9&version=HCSB)
-
+#### Jephthah 
+* [Jdg 10:6-12:7](https://www.biblegateway.com/passage/?search=Jdg+10%3A6&version=HCSB)
+#### Samson
+* [Jdg 13-16](https://www.biblegateway.com/passage/?search=Jdg+13&version=HCSB)
 ## New Testament
