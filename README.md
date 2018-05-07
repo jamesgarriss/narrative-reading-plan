@@ -35,11 +35,11 @@ Would the promised one be Isaac's son, Jacob? No, though God was faithful to kee
 * [Gen 26-35](https://www.biblegateway.com/passage/?search=Gen+26-35&version=HCSB)
 ### Joseph
 Would the promised one be Isaac's favorite son, Joseph? No, his brothers sold him into slavery. God, however, was faithful to keep his covenant by using Joseph to save his entire family from starvation by bringing them down to Egypt.
-* [Gen 37-46:5](https://www.biblegateway.com/passage/?search=Gen+37-46%3A5&version=HCSB)
-* [Gen 46:28-50](https://www.biblegateway.com/passage/?search=Gen+46%3A28+-+Gen+50&version=HCSB)
+* [Gen 37:1-46:5](https://www.biblegateway.com/passage/?search=Gen+37-46%3A5&version=HCSB)
+* [Gen 46:28-50:26](https://www.biblegateway.com/passage/?search=Gen+46%3A28+-+Gen+50&version=HCSB)
 ### Moses
 A new Pharoah came to power in Egypt, one who enslaved the Israelites. God was faithful to keep his covenenant by raising up Moses to deliver them.
-* [Exo 1-6:13](https://www.biblegateway.com/passage/?search=Exo+1-6%3A13&version=HCSB)
+* [Exo 1:1-6:13](https://www.biblegateway.com/passage/?search=Exo+1-6%3A13&version=HCSB)
 ### The Exodus
 Pharoah refused to let the Israelites leave Egypt. God was faithful to keep his covenant by plaguing Egypt until Pharoah relented and by providing water and food in the wilderness.
 * [Exo 6:26-18](https://www.biblegateway.com/passage/?search=Exo+6%3A26-Exo+18&version=HCSB)
