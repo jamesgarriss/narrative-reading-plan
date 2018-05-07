@@ -13,7 +13,7 @@ God created the world, and it was good. The pinnacle of his creation was man, wh
 Adam sinned and broke his relationship with God. In his justice, God punished Adam; in his grace, he promised that there would be a descedent from Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
 * [Gen 3](https://www.biblegateway.com/passage/?search=Gen+3&version=HCSB)
 ### Adam
-Would the promised one be Adam's son, Cain? No, instead, the effects of sin increased as murder and death enter the world.  God, however, was faithful to his promise by giving Eve another son, Seth.
+Would the promised one be Adam's son, Cain? No, instead, the effects of sin appeared as murder and death enter the world.  God, however, was faithful to his promise by giving Eve another son, Seth.
 * [Gen 4](https://www.biblegateway.com/passage/?search=Gen+4&version=HCSB)
 * [Gen 5:1-3](https://www.biblegateway.com/passage/?search=Gen+5%3A1-3&version=HCSB)
 ### Noah and the Flood
