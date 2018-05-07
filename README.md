@@ -34,7 +34,7 @@ Would the promised one be Isaac's son, Jacob? No, though God was faithful to kee
 * [Gen 25:19-35](https://www.biblegateway.com/passage/?search=Gen+25%3A19-35&version=HCSB)
 * [Gen 26-35](https://www.biblegateway.com/passage/?search=Gen+26-35&version=HCSB)
 ### Joseph
-Would the promised one be Isaac's favorite son, Joseph? No, his brothers sold him into slavery. God, however, was faithful to keep his covenant by using Joseph to save his entire family from starvation.
+Would the promised one be Isaac's favorite son, Joseph? No, his brothers sold him into slavery. God, however, was faithful to keep his covenant by using Joseph to save his entire family from starvation by bringing them down to Egypt.
 * [Gen 37-46:5](https://www.biblegateway.com/passage/?search=Gen+37-46%3A5&version=HCSB)
 * [Gen 46:28-50](https://www.biblegateway.com/passage/?search=Gen+46%3A28+-+Gen+50&version=HCSB)
 ### Moses
