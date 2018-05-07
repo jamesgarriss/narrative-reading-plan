@@ -8,41 +8,41 @@ As reader follow this plan, it is hoped that they will be able to see the big pi
 ## Old Testament
 ### Creation and the Fall
 God created the world, and it was good. The pinnacle of his creation was man, who he made in his image.
-* [Gen 1-2](https://www.biblegateway.com/passage/?search=Gen+1&version=HCSB)
+* [Gen 1-2](https://www.biblegateway.com/passage/?search=Gen+1-2&version=HCSB)
 ### The Fall
 Adam sinned and broke his relationship with God. In his justice, God punished Adam; in his grace, he promised that there would be a descedent from Eve who would strike a fatal blow to the serpent who tempted Eve. Who would be that promised descendent?
-* [Gen 3](https://www.biblegateway.com/passage/?search=Gen+1&version=HCSB)
+* [Gen 3](https://www.biblegateway.com/passage/?search=Gen+3&version=HCSB)
 ### Adam
 Would the promised one be Adam's son, Cain? No, instead, the effects of sin increased as murder and death enter the world.  God, however, was faithful to his promise by giving Eve another son, Seth.
 * [Gen 4](https://www.biblegateway.com/passage/?search=Gen+4&version=HCSB)
-* [Gen 5:1-3](https://www.biblegateway.com/passage/?search=Gen+5&version=HCSB)
+* [Gen 5:1-3](https://www.biblegateway.com/passage/?search=Gen+5%3A1-3&version=HCSB)
 ### Noah and the Flood
 As fallen angels (the sons of God) procreated with women, sin began to dominate the entire human race.  Though God punished sin, he was faithful to his promise by saving Noah.
-* [Gen 6-9](https://www.biblegateway.com/passage/?search=Gen+6&version=HCSB)
+* [Gen 6-9](https://www.biblegateway.com/passage/?search=Gen+6-9&version=HCSB)
 ### Abram and the Covenant
 In Babylon, men tried to reached heaven on their own, so God confused their language.  God made a covenant with Abram and promised that he would bless everyone on the earth through him.  The promised descendent would come from Abram.
-* [Gen 11:1-9, 27-32](https://www.biblegateway.com/passage/?search=Gen+11&version=HCSB)
-* [Gen 12-14](https://www.biblegateway.com/passage/?search=Gen+12&version=HCSB)
+* [Gen 11:1-9, 27-32](https://www.biblegateway.com/passage/?search=Gen+11%3A1-9%2C+27-32&version=HCSB)
+* [Gen 12-14](https://www.biblegateway.com/passage/?search=Gen+12-14&version=HCSB)
 ### Abram and the Promise of Land
 As Abram (mostly) obeyed God, God renewed his covenant and promised him a land where his offspring would one day dwell. God was faithful to keep his covenant by enabling Abram's wife to conceive at an old age.
-* [Gen 15-20](https://www.biblegateway.com/passage/?search=Gen+15&version=HCSB)
+* [Gen 15-20](https://www.biblegateway.com/passage/?search=Gen+15-20&version=HCSB)
 ### Isaac
 Would the promised one be Abram's son, Isaac? No, but God was faithful to keep his covenant by providing Isaac with a wife.
-* [Gen 21-24](https://www.biblegateway.com/passage/?search=Gen+24&version=HCSB)
+* [Gen 21-24](https://www.biblegateway.com/passage/?search=Gen+21-24&version=HCSB)
 ### Jacob
 Would the promised one be Isaac's son, Jacob? No, though God was faithful to keep his covenant by protecting Jacob from Laban and Esau.
 * [Gen 25:19-35](https://www.biblegateway.com/passage/?search=Gen+25%3A19-35&version=HCSB)
-* [Gen 26-35](https://www.biblegateway.com/passage/?search=Gen+26&version=HCSB)
+* [Gen 26-35](https://www.biblegateway.com/passage/?search=Gen+26-35&version=HCSB)
 ### Joseph
 Would the promised one be Isaac's favorite son, Joseph? No, his brothers sold him into slavery. God, however, was faithful to keep his covenant by using Joseph to save his entire family from starvation.
-* [Gen 37-46:5](https://www.biblegateway.com/passage/?search=Gen+37&version=HCSB)
-* [Gen 46:28-50](https://www.biblegateway.com/passage/?search=Gen+46%3A28-50&version=HCSB)
+* [Gen 37-46:5](https://www.biblegateway.com/passage/?search=Gen+37-46%3A5&version=HCSB)
+* [Gen 46:28-50](https://www.biblegateway.com/passage/?search=Gen+46%3A28+-+Gen+50&version=HCSB)
 ### Moses
 A new Pharoah came to power in Egypt, one who enslaved the Israelites. God was faithful to keep his covenenant by raising up Moses to deliver them.
-* [Exo 1-6:13](https://www.biblegateway.com/passage/?search=Exo+1&version=HCSB)
+* [Exo 1-6:13](https://www.biblegateway.com/passage/?search=Exo+1-6%3A13&version=HCSB)
 ### The Exodus
 Pharoah refused to let the Israelites leave Egypt. God was faithful to keep his covenant by plaguing Egypt until Pharoah relented and by providing water and food in the wilderness.
-* [Exo 6:26-18](https://www.biblegateway.com/passage/?search=Exo+6%3A26&version=HCSB)
+* [Exo 6:26-18](https://www.biblegateway.com/passage/?search=Exo+6%3A26-Exo+18&version=HCSB)
 ### The Mosaic Covenant
 * Exo 19-20
 * Exo 23:20-24
