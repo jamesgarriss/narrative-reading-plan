@@ -42,16 +42,17 @@ A new Pharoah came to power in Egypt, one who enslaved the Israelites. God was f
 * [Exo 1:1-6:13](https://www.biblegateway.com/passage/?search=Exo+1-6%3A13&version=HCSB)
 ### The Exodus
 Pharoah refused to let the Israelites leave Egypt. God was faithful to keep his covenant by plaguing Egypt until Pharoah relented and by providing water and food in the wilderness.
-* [Exo 6:26-18](https://www.biblegateway.com/passage/?search=Exo+6%3A26-Exo+18&version=HCSB)
+* [Exo 6:26-18:27](https://www.biblegateway.com/passage/?search=Exo+6%3A26-Exo+18&version=HCSB)
 ### The Mosaic Covenant
-* Exo 19-20
-* Exo 23:20-24
-* Exo 32-36:7
-* Exo 40
-* Lev 8-10:7
-* Num 9
-* Num 11-12
+God made a covenant with the nation of Israel, promising to be their God so long as they remained his obedient people. It didn't take long, however, for them to break the covenant by worshipping a golden idol, and God judged them for their sin. Knowing that his people would continue to sin, God was faithful to his covenant by selecting Aaron and his sons to be priests who would mediate between he and his people when they sinned.
+* [Exo 19-20](https://www.biblegateway.com/passage/?search=Exo+19-20&version=HCSB)
+* [Exo 23:20-24:18](https://www.biblegateway.com/passage/?search=Exo+23%3A20-24%3A18&version=HCSB)
+* [Exo 32:1-36:7](https://www.biblegateway.com/passage/?search=Exo+32%3A1-36%3A7&version=HCSB)
+* [Exo 40](https://www.biblegateway.com/passage/?search=Exo+40&version=HCSB)
+* [Lev 8:1-10:7](https://www.biblegateway.com/passage/?search=Lev+8%3A1-10%3A7&version=HCSB)
 ### The Wilderness
+* [Num 9]
+* [Num 11-12]
 * Num 13-14
 * Num 16-17
 * Num 20-25
