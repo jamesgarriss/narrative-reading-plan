@@ -51,10 +51,10 @@ God made a covenant with the nation of Israel, promising to be their God so long
 * [Exo 40](https://www.biblegateway.com/passage/?search=Exo+40&version=HCSB)
 * [Lev 8:1-10:7](https://www.biblegateway.com/passage/?search=Lev+8%3A1-10%3A7&version=HCSB)
 ### The Wilderness
-* [Num 9]
-* [Num 11-12]
-* Num 13-14
-* Num 16-17
+God was faithful to his covenant to Abraham and led the people with a cloud to Canaan, the land he had promised. The people did not trust God; they did not believe they he could help them defeat their enemies. As punishment, they were forced to wander in the wilderness for 40 years.
+* [Num 9](https://www.biblegateway.com/passage/?search=num+9&version=HCSB)
+* [Num 11-14](https://www.biblegateway.com/passage/?search=Num+11-14&version=HCSB)
+* [Num 16-17](https://www.biblegateway.com/passage/?search=Num+16-17&version=HCSB)
 * Num 20-25
 * Num 27
 * Num 31-32
