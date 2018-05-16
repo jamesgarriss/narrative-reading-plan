@@ -77,18 +77,12 @@ Although Israel drove many of the wicked Canaanites from the land that God had p
 ### The Cycle of Judges
 With the death of Joshua there began a new period of time in Israel's history known as the judges.  It began when "another generation rose up who did not know the LORD" ([Jdg 2:10](https://www.biblegateway.com/passage/?search=Jdg+2%3A10&version=HCSB)) and was characterized by the fact that "everyone did whatever he wanted" ([Jdg 17:6](https://www.biblegateway.com/passage/?search=Jdg+17%3A6&version=HCSB)).  Trust in God was decreasing and immorality was increasing.  During this time there was a cycle that repeated itself again and again:  Israel sinned by breaking their coveneant, God punished them as had promised in the covenant, Israel repented of her sin, and God was faithful to keep the covenenant by delivering them with a judge. Some of these judges trusted God completely; perhaps one of them would be Eve's promised descendent.
 * [Jdg 2:11-3:6](https://www.biblegateway.com/passage/?search=Jdg+2%3A11&version=HCSB)
-#### Othniel
-* [Jdg 3:7-11](https://www.biblegateway.com/passage/?search=Jdg+3%3A7-11&version=HCSB)
-#### Ehud
-* [Jdg 3:12-30](https://www.biblegateway.com/passage/?search=Jdg+3%3A12-30&version=HCSB)
-#### Deborah 
-* [Jdg 4-5](https://www.biblegateway.com/passage/?search=Jdg+4-5&version=HCSB)
-#### Gideon
-* [Jdg 6-9](https://www.biblegateway.com/passage/?search=Jdg+6-9&version=HCSB)
-#### Jephthah 
-* [Jdg 10:6-12:7](https://www.biblegateway.com/passage/?search=Jdg+10%3A6&version=HCSB)
-#### Samson
-* [Jdg 13-16](https://www.biblegateway.com/passage/?search=Jdg+13&version=HCSB)
+* Othniel - [Jdg 3:7-11](https://www.biblegateway.com/passage/?search=Jdg+3%3A7-11&version=HCSB)
+* Ehud - [Jdg 3:12-30](https://www.biblegateway.com/passage/?search=Jdg+3%3A12-30&version=HCSB)
+* Deborah - [Jdg 4-5](https://www.biblegateway.com/passage/?search=Jdg+4-5&version=HCSB)
+* Gideon - [Jdg 6-9](https://www.biblegateway.com/passage/?search=Jdg+6-9&version=HCSB)
+* Jephthah - [Jdg 10:6-12:7](https://www.biblegateway.com/passage/?search=Jdg+10%3A6&version=HCSB)
+* Samson - [Jdg 13-16](https://www.biblegateway.com/passage/?search=Jdg+13&version=HCSB)
 ### Ruth
 Despite the many failures of the judges, God was faithful to his covenant.  During the time of Gideon, he providentially set in motion a plan that would provide Israel with her greatest leader, one who would serve God with his whole heart.  Strangely enough, that plan began with a woman from Moab.
 * [Rut 1-4](https://www.biblegateway.com/passage/?search=Ruth+1-4&version=HCSB)
