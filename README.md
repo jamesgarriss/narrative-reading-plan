@@ -55,11 +55,12 @@ God was faithful to his covenant to Abraham and led the people with a cloud to C
 * [Num 9](https://www.biblegateway.com/passage/?search=num+9&version=HCSB)
 * [Num 11-14](https://www.biblegateway.com/passage/?search=Num+11-14&version=HCSB)
 * [Num 16-17](https://www.biblegateway.com/passage/?search=Num+16-17&version=HCSB)
-* Num 20-25
-* Num 27
-* Num 31-32
+* [Num 20-25](https://www.biblegateway.com/passage/?search=Numbers+20-25&version=HCSB)
 ### The Promised Land
-* Num 33:50-56
+After the time of their punishment was complete, God led his people back to the land of Canaan once again.
+* [Num 27](https://www.biblegateway.com/passage/?search=Numbers+27&version=HCSB)
+* [Num 31-32](https://www.biblegateway.com/passage/?search=Numbers+31-32&version=HCSB)
+* [Num 33:50-56](https://www.biblegateway.com/passage/?search=Numbers+33%3A50-56&version=HCSB)
 * Num 35:1-15
 * Num 36
 ### Renewing the Covenant
